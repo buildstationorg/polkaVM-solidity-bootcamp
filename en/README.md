@@ -1,4 +1,4 @@
-# Kaia DApp Bootcamp English version
+# PolkaVM Bootcamp English version
 
 ## Curriculum
 The content is divided into 2 parts:
