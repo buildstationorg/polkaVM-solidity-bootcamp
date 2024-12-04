@@ -17,10 +17,10 @@ contract AdvancedStorage {
 
     // Declare the InvestmentVault Struct data type
     struct InvestmentVault {
-        uint256 investmentDuration; // Thời gian đầu tư
-        int256 returnOnInvestment; // % lãi suất trả về
-        bool initialized; // Đã khởi tạo
-        address identityCard; // Địa chỉ thẻ thông tin
+        uint256 investmentDuration; // investment duration
+        int256 returnOnInvestment; // return on investment
+        bool initialized; // status of vault initiatialization
+        address identityCard; // identity card of the customer in this case the address
     }
     // Declare a variable with the InvestmentVault type
     InvestmentVault private investmentVault;
