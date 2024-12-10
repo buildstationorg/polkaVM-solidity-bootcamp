@@ -1,4 +1,4 @@
-# PolkaVM Bootcamp English version
+# PolkaVM Solidity Bootcamp English version
 
 ## Curriculum
 - Intro: Introduction to PolkaVM, how to set up the environment and tools you will use for DApp development.
